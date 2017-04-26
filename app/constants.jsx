@@ -1,0 +1,6 @@
+export const RECEIVE_BOOKS = 'RECEIVE_BOOKS'
+export const RECEIVE_BOOK = 'RECEIVE_BOOK'
+export const RECEIVE_ORDERS = 'RECEIVE_ORDERS'
+export const RECEIVE_CART = 'RECEIVE_CART'
+export const RECEIVE_REVIEW = 'RECEIVE_REVIEW'
+export const UPDATE_CART = 'UPDATE_CART'
